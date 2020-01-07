@@ -13,3 +13,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/FlavieVial/CheckMyPackage
 BugReports: https://github.com/FlavieVial/CheckMyPackage/issues
+RoxygenNote: 6.1.1
